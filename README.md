@@ -36,6 +36,12 @@ Price – Target variable (house price).
 
 Address – Dropped as it’s categorical and not relevant for prediction.
 
+Technologies Used
+- Python 🐍
+- pandas, numpy
+- matplotlib, seaborn
+- scikit-learn
+
 🛠️ Steps in the Project
 
 Data Exploration
