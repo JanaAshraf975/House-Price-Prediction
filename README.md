@@ -78,4 +78,5 @@ Mean Absolute Error (MAE): ~ 81,309
 
 Mean Squared Error (MSE): ~ 10,116,760,189
 
-Visualization of Actual vs Predicted prices
+Visualization of Actual vs Predicted prices ![Actual vs Predicted](output.png)
+
